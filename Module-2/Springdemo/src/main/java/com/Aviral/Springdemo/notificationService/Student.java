@@ -1,4 +1,5 @@
-package com.Aviral.Springdemo.NotificationService;
+package com.Aviral.Springdemo.notificationService;
+
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

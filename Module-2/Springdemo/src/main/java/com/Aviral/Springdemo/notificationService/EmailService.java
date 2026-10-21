@@ -1,4 +1,4 @@
-package com.Aviral.Springdemo.NotificationService;
+package com.Aviral.Springdemo.notificationService;
 
 import org.springframework.stereotype.Component;
 
