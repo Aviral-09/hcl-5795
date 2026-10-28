@@ -17,9 +17,9 @@ public class EmployeeController {
         return "Welcome to ABES HRMS";
     }
 
-    @GetMapping("/addemp")
-    public String addNewEmployee() {
-        return empService.addEmp();
+    @PostMapping("/addemp")
+    public String addNewEmployee(@RequestBody Employee employee){
+        return empService.addEmp(employee);
     }
 
     @GetMapping("/getemp")
@@ -32,8 +32,8 @@ public class EmployeeController {
         return empService.getEmpById(empId);
     }
 
-    @GetMapping("/addemp/bulk")
-    public String addEmpBulk() {
+    @PostMapping("/addemp/bulk")
+    public String addEmpBulk(@RequestBody Employee employee) {
         return empService.addEmpBulk();
     }
 

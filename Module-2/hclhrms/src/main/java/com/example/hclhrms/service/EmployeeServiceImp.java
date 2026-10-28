@@ -12,11 +12,9 @@ public class EmployeeServiceImp {
     @Autowired
     private EmpRepoImp empRepo;
 
-    public String addEmp() {
-        Employee emp1 = new Employee(200, "Akshat", "Developer", "Java", "jassu@gmail.com");
-        return empRepo.addEmp(emp1);
+    public String addEmp(Employee employee) {
+        return empRepo.addEmp(employee);
     }
-
     public String addEmpBulk() {
 
         List<Employee> bulkEmp = Arrays.asList(
