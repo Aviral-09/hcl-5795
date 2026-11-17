@@ -2,23 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd58ae5c-4843-4182-9357-dd1847ed7924" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/config/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/AuthForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/PostForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/SubmitButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwtDemo-main/frontend/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module-2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module-2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/JwtdemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtDemo-main/jwtDemo-main/backend/src/test/java/com/hcld2/jwtdemo/JwtdemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/JwtdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/JwtdemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/dto/AuthRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/dto/AuthRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/dto/AuthResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/dto/AuthResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/dto/PostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/dto/PostRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/dto/PostResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/dto/PostResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/dto/StatusResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/dto/StatusResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/entity/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/entity/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/security/JwtAuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/security/JwtAuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/service/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/java/com/hcld2/jwtdemo/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/java/com/hcld2/jwtdemo/service/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwtDemo/backend/src/test/java/com/hcld2/jwtdemo/JwtdemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/jwtDemo-main/backend/src/test/java/com/hcld2/jwtdemo/JwtdemoApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,29 +58,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jwtDemo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3LRcCdPd2HJrrhwF5wqeLYJ7W2O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,5 +102,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
