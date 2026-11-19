@@ -1,0 +1,8 @@
+# Testing 
+1. unit Testing
+2. Integrated Testing 
+3. End to end Testing
+
+NodeJs bydefault support inbuild testing framework from node >= 23 version
+
+> node-test
