@@ -2,6 +2,16 @@ import { greet, greetInHindi } from "../app.js";
 import { describe, test } from "node:test";
 import assert from "node:assert";
 
+describe ("order feature", () => {
+    test("that is process the order correctly", () => {
+        const mockedProcessPayment = mock.fn((amount)=>{
+
+        });
+
+    });
+
+});
+
 describe("Greeting functions", () => {
   test("greet returns the correct greeting", () => {
     const expected = `Hello, World!`;
